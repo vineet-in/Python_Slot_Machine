@@ -1,9 +1,3 @@
-# Python_Slot_Machine
-
-Here’s a simple `README.md` for your slot machine project:
-
----
-
 # Slot Machine Game 🎰
 
 This is a console-based slot machine game built in Python. The player deposits an initial amount of money, chooses how many lines to bet on, and places a bet for each line. The slot machine spins, and if the player matches symbols across the lines, they win based on the value of the symbols.
